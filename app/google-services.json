@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895808261132",
+    "project_id": "se-planeja",
+    "storage_bucket": "se-planeja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895808261132:android:41d5c16b0be92f2f8e3229",
+        "android_client_info": {
+          "package_name": "com.example.seplaneja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895808261132-7772r37mhi0ilg1q6aa2svos527a92o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBudCLYToI_bA_6MstgS1gi8q-O1M47W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895808261132-7772r37mhi0ilg1q6aa2svos527a92o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
